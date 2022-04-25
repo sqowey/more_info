@@ -8,3 +8,5 @@ Things to check before dev branch is merged to master:
 - [ ] Check if the settings do work all
 - [ ] Check if the app works when completely deleted and copied from source
 - [ ] Check if the support formular works
+- [ ] Check if version number has been updated
+- [ ] Check if changelog has been added
