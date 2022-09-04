@@ -35,6 +35,19 @@ Things to check before dev branch is merged to master:
         - [ ] Password Salt
         - [ ] Account version
 
+### Developer Checks:
+- [ ] Developer-Portal
+    - [ ] Create application
+        - [ ] Don't create application when number of allowed apps is used up
+        - [ ] App-standard-name is "APP [number]"
+        - [ ] App gets a new app secret
+            - [ ] App secret is only displayed on mouseover
+        - [ ] App gets a unique ID
+        - [ ] App owner is set
+    - [ ] Dev-ID (UserID) id displayed
+    - [ ] Dev-Secret is displayed
+        - [ ] Dev-Secret is only displayed on mouseover
+
 ## Other Checks:
 - [ ] Check if the support formular works
 - [ ] Changelog has been added
