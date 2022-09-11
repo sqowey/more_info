@@ -35,6 +35,9 @@ Things to check before dev branch is merged to master:
         - [ ] Password Salt
         - [ ] Account version
 
+### Support Checks
+- [ ] Check if the support formular works
+
 ### Developer Checks:
 - [ ] Developer-Portal
     - [ ] Create application
@@ -49,7 +52,6 @@ Things to check before dev branch is merged to master:
         - [ ] Dev-Secret is only displayed on mouseover
 
 ## Other Checks:
-- [ ] Check if the support formular works
 - [ ] Changelog has been added
 - [ ] Version number has been updated
 - [ ] App works when completely deleted and copied from source
